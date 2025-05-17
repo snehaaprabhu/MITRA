@@ -69,6 +69,6 @@
 
 ## 📬 Contact
 
-Built with ❤️ by [Your Name]  
-[LinkedIn](https://linkedin.com/in/yourname) | [GitHub](https://github.com/yourusername)
+Built with ❤️ by [Sneha Prabhu]  
+
 
