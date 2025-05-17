@@ -1,22 +1,21 @@
-# 🎓 MITRA – Your GRE Buddy
+MITRA – Your GRE Buddy
 
-**Mitra** is a student-focused web app that helps engineering undergraduates prepare for the GRE and explore US university admissions. It offers GRE resources, profile evaluation, a score tracker with visualizations, and a personal dashboard.
-
----
-
-## 🚀 Features
-
-- 📘 GRE Info & Study Tips  
-- 🏛️ University Tier Lists  
-- 📈 Profile Evaluation  
-- 💸 Funding & Scholarship Guidance  
-- 📋 User Dashboard with Score Logger  
-- 📊 Interactive GRE Score Graph  
-- ⬇️ Export Scores to CSV / PDF
+Mitra is a student-focused web app that helps engineering undergraduates prepare for the GRE and explore US university admissions. It offers GRE resources, profile evaluation, a score tracker with visualizations, and a personal dashboard.
 
 ---
 
-## 🔧 Tech Stack
+Features
+
+- GRE Info & Study Tips  
+- University Tier Lists  
+- Profile Evaluation  
+- Funding & Scholarship Guidance  
+- User Dashboard with Score Logger  
+- Interactive GRE Score Graph  
+
+---
+
+Tech Stack
 
 - **Language**: Python  
 - **Framework**: Streamlit  
@@ -26,7 +25,7 @@
 
 ---
 
-## 🛠 How to Run Locally
+How to Run Locally
 
 1. Clone the repo:
     ```bash
@@ -52,13 +51,13 @@
 
 ---
 
-## 💡 Inspiration
+Inspiration
 
-> Empowering students with the right tools to navigate their GRE journey and chase their dream universities.
+Empowering students with the right tools to navigate their GRE journey and chase their dream universities.
 
 ---
 
-## 📈 What's Next for MITRA
+What's Next for MITRA
 
 - Add AI-powered GRE score predictors  
 - Integration with Supabase for persistent storage  
@@ -67,7 +66,7 @@
 
 ---
 
-## 📬 Contact
+
 
 Built with ❤️ by [Sneha Prabhu]  
 
